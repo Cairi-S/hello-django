@@ -1,1 +1,1 @@
-web: gunicorn cairis-hello-django-todo.wsgi:application
+web: gunicorn django_todo.wsgi:application
